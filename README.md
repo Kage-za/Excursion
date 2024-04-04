@@ -1,2 +1,3 @@
 # Excursion
-WebPage advertises a mobile appl which helps users record and sahre their Experiences
+Author: Kevin Thompson
+WebPage advertises a mobile app which helps users record and share their Experiences
